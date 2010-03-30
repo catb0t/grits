@@ -1,0 +1,15 @@
+#summary Generally Ridiculous In Terms of Scope
+
+= Grits =
+
+Grits is a dynamic, interpreted (and semi-esoteric) programming language created by Davie Janeway in 2009.
+
+== Language Specification ==
+
+=== Overview ===
+The Grits interpreter reads source files line-by-line. This means there is no support for multi-line expressions of any kind. All Grits constructs begin and end on the same line.
+
+=== Whitespace ===
+For the most part, whitespace is ignored by the interpreter. However, certain constructs are whitespace sensitive. For instance, expressions within a function are separated by whitespace (Although, this is liable to change before Grits v1.0).
+
+=== Comments ===
