@@ -1,0 +1,10 @@
+#summary Generally Ridiculous In Terms of Scope
+#labels Phase-Implementation,Featured,Phase-Requirements
+
+= Grits =
+
+Grits is a dynamic, interpreted (and semi-esoteric) programming language created by Davie Janeway in 2009.
+
+== The Core Language ==
+
+=== Comments ===
